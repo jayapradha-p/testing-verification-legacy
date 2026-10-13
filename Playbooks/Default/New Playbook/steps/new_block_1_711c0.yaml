@@ -1,0 +1,61 @@
+identifier: 711c069c-1901-4ab0-9b44-2e77bbbfb8c4
+original_step_id: 711c069c-1901-4ab0-9b44-2e77bbbfb8c4
+parent_step_ids:
+- 7474feb3-63d5-429b-acf0-7083e956d46a
+parent_step_id: 7474feb3-63d5-429b-acf0-7083e956d46a
+previous_result_condition: '{"7474feb3-63d5-429b-acf0-7083e956d46a": ""}'
+instance_name: New Block_1
+is_automatic: true
+name: New Block
+is_skippable: false
+description: An embedded workflow that can receive inputs and return an output.
+action_provider: Flow
+action_name: NestedAction
+integration: Siemplify
+auto_skip_on_failure: false
+is_debug_mock_data: false
+is_touched_by_ai: false
+type: block
+parameters:
+-   step_id: null
+    playbook_id: null
+    name: AssignedUsers
+    value: null
+-   step_id: null
+    playbook_id: null
+    name: DistinctDuplicateEntities
+    value: 'true'
+-   step_id: null
+    playbook_id: null
+    name: HasApprovalLink
+    value: null
+-   step_id: null
+    playbook_id: null
+    name: MessageToAssignee
+    value: null
+-   step_id: null
+    playbook_id: null
+    name: NestedWorkflowIdentifier
+    value: d6f35a62-7dcc-4c18-9b6b-a760ef8f8c48
+-   step_id: null
+    playbook_id: null
+    name: NestedWorkflowInputs
+    value: '[]'
+-   step_id: null
+    playbook_id: null
+    name: PendingActionTimeout
+    value: null
+-   step_id: null
+    playbook_id: null
+    name: UseEntitiesLoopScope
+    value: 'true'
+-   step_id: null
+    playbook_id: null
+    name: NestedWorkflowSteps
+    value: '[]'
+-   step_id: null
+    playbook_id: null
+    name: NestedWorkflowOutput
+    value: null
+parallel_actions: []
+step_debug_data: null
