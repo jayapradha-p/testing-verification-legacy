@@ -1,8 +1,0 @@
-identifier: 44804a91-1490-4bc2-ab57-319beb83e965
-is_enabled: true
-playbook_id: ''
-playbook_name: ''
-environments: []
-type_: get_inputs
-logical_operator: and
-conditions: []
