@@ -1,0 +1,8 @@
+identifier: cfe59810-2cf2-43b3-9dcc-c540084ace72
+type_: all
+logical_operator: and
+conditions:
+-   field_name: null
+    value: null
+    match_type: equal
+    custom_operator_name: null
