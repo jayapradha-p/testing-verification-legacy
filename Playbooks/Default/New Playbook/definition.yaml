@@ -1,0 +1,27 @@
+identifier: dee7180e-6b97-400d-81ce-f7092ddb3cc0
+is_enable: true
+version: '1'
+name: New Playbook
+description: ''
+priority: 2
+category_name: Default
+category: 1
+environments:
+- '*'
+is_debug_mode: false
+type: playbook
+creator: 28087212-f11e-4a6b-9b50-3964967a2990
+modified_by: Siemplify automation
+execution_scope: 1
+original_playbook_identifier: dee7180e-6b97-400d-81ce-f7092ddb3cc0
+creation_time_unix_time_in_ms: 1791894194337
+modification_time_unix_time_in_ms: 1791894194337
+template_name: null
+debug_data:
+    debugBaseAlertId: ''
+    debugAlertId: ''
+entity_access_level: 2
+default_access_level: 2
+permissions: []
+overview_templates: []
+creation_source: 1
