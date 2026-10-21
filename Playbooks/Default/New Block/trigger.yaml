@@ -1,0 +1,12 @@
+identifier: 9dcae618-dd22-4e08-864b-ed1849aa71ae
+is_enabled: true
+playbook_id: ''
+playbook_name: ''
+environments: []
+type_: get_inputs
+logical_operator: and
+conditions: []
+reaction_logical_operator: 1
+reaction_conditions: []
+execution_mode: 0
+max_reaction_depth: null
