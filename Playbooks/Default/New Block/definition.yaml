@@ -1,0 +1,27 @@
+identifier: 2b7060e1-ce40-4627-b340-620fb78c1ab8
+is_enable: true
+version: '1'
+name: New Block
+description: An embedded workflow that can receive inputs and return an output.
+priority: 2
+category_name: Default
+category: 1
+environments:
+- '*'
+is_debug_mode: false
+type: block
+creator: 28087212-f11e-4a6b-9b50-3964967a2990
+modified_by: Siemplify automation
+execution_scope: 0
+original_playbook_identifier: 2b7060e1-ce40-4627-b340-620fb78c1ab8
+creation_time_unix_time_in_ms: 1792561519391
+modification_time_unix_time_in_ms: 1792561519391
+template_name: null
+debug_data:
+    debugBaseAlertId: null
+    debugAlertId: null
+entity_access_level: 2
+default_access_level: 2
+permissions: []
+overview_templates: []
+creation_source: 1
